@@ -76,3 +76,7 @@ deprecation warning.
 
 All of the existing scripting security settings have been removed.  Instead
 they are replaced with `script.allowed_types` and `script.allowed_contexts`.
+
+==== GCE/Azure/EC2 discovery setting
+
+discovery.type: ec2/azure/gce has been removed in favor of the discovery host provider variants
