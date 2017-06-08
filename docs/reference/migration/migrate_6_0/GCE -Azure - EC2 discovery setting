@@ -1,0 +1,1 @@
+discovery.type: ec2/azure/gce has been removed in favor of the discovery host provider variants.
